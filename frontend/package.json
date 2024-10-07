@@ -16,7 +16,6 @@
     "framer-motion": "^11.9.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-lottie": "^1.2.4",
     "react-notification-badge": "^1.5.1",
     "react-router-dom": "^5.3.4",
     "react-scripts": "5.0.1",
@@ -50,6 +49,7 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "babel-preset-react-app": "^10.0.1"
+    "babel-preset-react-app": "^10.0.1",
+    "react-lottie": "^1.2.4"
   }
 }
