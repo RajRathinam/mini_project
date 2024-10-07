@@ -1,0 +1,9 @@
+{
+    "plugins": [
+      "@babel/plugin-proposal-private-property-in-object"
+    ],
+    "ignore": [
+      "/opt/render/project/src/frontend/src/index.js"
+    ]
+  }
+  
